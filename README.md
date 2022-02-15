@@ -1,10 +1,10 @@
 ### Olá! Eu sou o William Brito Dev .NET Junior
 
 <a href="https://github.com/WilliamGBrito/github-readme-stats">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=WilliamGBrito&repo=github-readme-stats&theme=prussian" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=WilliamGBrito&repo=github-readme-stats&theme=prussian" />
 </a>
 <a href="https://github.com/WilliamGBrito/convoychat">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=WilliamGBrito&repo=convoychat&theme=prussian&layout=compact" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=WilliamGBrito&repo=convoychat&theme=prussian&layout=compact" />
 </a>
 
 <div style="display: inline_block"><br>
