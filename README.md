@@ -1,13 +1,9 @@
 ### Olá! Eu sou o William Brito Dev .NET Junior
 
-<div>
+<div align="center">
   <a href="https://github.com/WilliamGBrito">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=WilliamGBrito&theme=algolia&show_icons=true?count_private=true&show_icons=true&include_all_commits=true" />
-  </a>
-
-  <a href="https://github.com/WilliamGBrito">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=WilliamGBrito&count_private=true&langs_count=10&layout=compact&theme=algolia" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamGBrito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamGBrito&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
