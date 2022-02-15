@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/WilliamGBrito">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamGBrito&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamGBrito&layout=compact&langs_count=7&theme=prussian"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=WilliamGBrito&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamGBrito&layout=compact&langs_count=7&theme=prussian"/>
 </div> 
   
 <div style="display: inline_block"><br>
@@ -14,13 +14,6 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="will-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/532276405841690625/942909348311597087/2.png?width=473&height=473">
 <div>
-  
-  <a href="https://github.com/WilliamGBrito/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamGBrito&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/WilliamGBrito/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamGBrito&repo=convoychat" />
-</a>
   
 ##
   
