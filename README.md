@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=WilliamGBrito&repo=github-readme-stats&theme=prussian" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WilliamGBrito&repo=convoychat&theme=prussian&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=WilliamGBrito&repo=convoychat&theme=prussian&layout=compact" />
 </a>
 
 <div style="display: inline_block"><br>
