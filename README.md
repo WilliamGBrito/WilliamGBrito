@@ -1,12 +1,14 @@
 ### Olá! Eu sou o William Brito Dev .NET Junior
 
-<a href="https://github.com/WilliamGBrito">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamGBrito&theme=algolia&show_icons=true?count_private=true&show_icons=true&include_all_commits=true" />
-</a>
+<div>
+  <a href="https://github.com/WilliamGBrito">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamGBrito&theme=algolia&show_icons=true?count_private=true&show_icons=true&include_all_commits=true" />
+  </a>
 
-<a href="https://github.com/WilliamGBrito/convoychat">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=WilliamGBrito&count_private=true&langs_count=10&layout=compact&theme=algolia" />
-</a>
+  <a href="https://github.com/WilliamGBrito/convoychat">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=WilliamGBrito&count_private=true&langs_count=10&layout=compact&theme=algolia" />
+  </a>
+</div><br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="will-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
