@@ -15,6 +15,13 @@
   <img align="right" alt="will-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/532276405841690625/942909348311597087/2.png?width=473&height=473">
 <div>
   
+  <a href="https://github.com/WilliamGBrito/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamGBrito&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/WilliamGBrito/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamGBrito&repo=convoychat" />
+</a>
+  
 ##
   
 <div>
