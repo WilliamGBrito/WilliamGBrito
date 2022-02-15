@@ -1,7 +1,7 @@
 ### Olá! Eu sou o William Brito Dev .NET Junior
 
 <a href="https://github.com/WilliamGBrito">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=WilliamGBrito&repo=github-readme-stats&theme=great-gatsby&include_all_commits=true" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=WilliamGBrito&repo=github-readme-stats&theme=great-gatsby&include_all_commits=true" />
 </a>
 
 <a href="https://github.com/WilliamGBrito/convoychat">
