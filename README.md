@@ -15,12 +15,12 @@
   <img align="right" alt="will-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/532276405841690625/942909348311597087/2.png?width=473&height=473">
 <div>
   
-##
+  ##
   
 <div>
   <a href = "mailto:williamgbrito@hotmail.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/williamgbrito/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
+</div>
   
   
 ![Snake animation](https://github.com/WilliamGBrito/WilliamGBrito/blob/output/github-contribution-grid-snake.svg)
