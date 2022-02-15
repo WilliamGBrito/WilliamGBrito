@@ -1,9 +1,5 @@
 ### Olá! Eu sou o William Brito Dev .NET Junior
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando C#
-- 😄 Pronouns: Ele/Dele
-
 <div align="center">
   <a href="https://github.com/WilliamGBrito">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamGBrito&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
