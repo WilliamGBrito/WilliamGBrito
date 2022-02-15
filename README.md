@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://github.com/WilliamGBrito/convoychat">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=WilliamGBrito&repo=convoychat&theme=great-gatsby&layout=compact&include_all_commits=true" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs?username=WilliamGBrito&repo=convoychat&theme=great-gatsby&layout=compact&include_all_commits=true" />
 </a>
 
 <div style="display: inline_block"><br>
