@@ -8,9 +8,7 @@
   <a href="https://github.com/WilliamGBrito">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamGBrito&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamGBrito&layout=compact&langs_count=7&theme=prussian"/>
-</div>
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WilliamGBrito&repo=github-readme-stats)](https://github.com/WilliamGBrito/github-readme-stats)
+</div> 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
