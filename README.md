@@ -10,6 +10,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamGBrito&layout=compact&langs_count=7&theme=prussian"/>
 </div>
   
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WilliamGBrito&repo=github-readme-stats)](https://github.com/WilliamGBrito/github-readme-stats)
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
