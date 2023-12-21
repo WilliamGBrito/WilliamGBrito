@@ -2,7 +2,7 @@
 
 - 👨‍💻 Sou desenvolver de software atuando no Back-End, mas caso necessario posiciono umas 'divs'.
 - 📚 Formado em Análise e Desenvolvimento de Sistemas.
-- ❤ Amo estudar, a meta é ser FullStack
+- ❤ Amo estudar, a meta é ser FullStack.
 
 <table>
   <tr>
